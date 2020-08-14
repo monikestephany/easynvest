@@ -1,0 +1,12 @@
+C:\Users\BSI99039\source\repos\easynvest.desafio\CORE\bin\Debug\netcoreapp3.1\CORE.deps.json
+C:\Users\BSI99039\source\repos\easynvest.desafio\CORE\bin\Debug\netcoreapp3.1\CORE.dll
+C:\Users\BSI99039\source\repos\easynvest.desafio\CORE\bin\Debug\netcoreapp3.1\CORE.pdb
+C:\Users\BSI99039\source\repos\easynvest.desafio\CORE\obj\Debug\netcoreapp3.1\CORE.csproj.CoreCompileInputs.cache
+C:\Users\BSI99039\source\repos\easynvest.desafio\CORE\obj\Debug\netcoreapp3.1\CORE.AssemblyInfoInputs.cache
+C:\Users\BSI99039\source\repos\easynvest.desafio\CORE\obj\Debug\netcoreapp3.1\CORE.AssemblyInfo.cs
+C:\Users\BSI99039\source\repos\easynvest.desafio\CORE\obj\Debug\netcoreapp3.1\CORE.dll
+C:\Users\BSI99039\source\repos\easynvest.desafio\CORE\obj\Debug\netcoreapp3.1\CORE.pdb
+C:\Users\BSI99039\source\repos\easynvest.desafio\CORE\bin\Debug\netcoreapp3.1\DATA.dll
+C:\Users\BSI99039\source\repos\easynvest.desafio\CORE\bin\Debug\netcoreapp3.1\DATA.pdb
+C:\Users\BSI99039\source\repos\easynvest.desafio\CORE\obj\Debug\netcoreapp3.1\CORE.csprojAssemblyReference.cache
+C:\Users\BSI99039\source\repos\easynvest.desafio\CORE\obj\Debug\netcoreapp3.1\CORE.csproj.CopyComplete
